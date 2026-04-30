@@ -10,3 +10,5 @@ Imports:
     spatstat,
     scam,
     lcfstat
+
+Authors@R: person("Roberto", "Jiménez Castillo", email = "roberto_jc@comunidad.unam.mx", role = c("aut", "cre"))
